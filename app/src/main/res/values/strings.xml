@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Number Guesser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pickanumber">Pick A Number Between 1 - 100</string>
+
+    <string name="button.okay">Guess</string>
+    <string name="button.reset">Reset</string>
+
+    <string name="guess.pretext">Your Guess Was</string>
+    <string name="guess.rank"></string>
+
+    <string name="stats.pretext">Guesses</string>
+    <string name="stats.value"></string>
+
+    <string name="number.pretext">Number</string>
+    <string name="number.value"></string>
+
+    <string name="creator">Created by Joseph Csoti</string>
+</resources>
